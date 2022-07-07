@@ -51,7 +51,7 @@
     <content><![CDATA[<h1 id="Basical"><a href="#Basical" class="headerlink" title="Basical"></a>Basical</h1><h2 id="7月计划"><a href="#7月计划" class="headerlink" title="7月计划"></a>7月计划</h2><ul>
 <li>旅游(参见<a href="https://codlearner.github.io/2022/07/06/%E9%9D%92%E5%B2%9B%E4%B9%8B%E6%97%85/">青岛之旅</a>)</li>
 <li>暑期实践、社会实践(水事水办)</li>
-<li>冰岩移动组的任务(预计会占据7月中所有下午以及部分晚上的时间)</li>
+<li>冰岩移动组的任务</li>
 </ul>
 <h2 id="8月计划"><a href="#8月计划" class="headerlink" title="8月计划"></a>8月计划</h2><ul>
 <li>练车(考掉科二就是胜利!)</li>
@@ -62,7 +62,6 @@
 <li>前端知识的学习(运用到自己的博客)，算法与数据结构知识的学习(pat乙级-甲级)</li>
 <li>了解计算机网络(随缘)</li>
 <li>Python学习(写出爬虫程序)</li>
-<li>Java学习(没想好到什么程度,说不定压根没时间开始)</li>
 </ul>
 <hr>
 ]]></content>
@@ -71,6 +70,28 @@
       </categories>
       <tags>
         <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冰岩夏令营初体验</title>
+    <url>/2022/07/07/%E5%86%B0%E5%B2%A9%E5%A4%8F%E4%BB%A4%E8%90%A5%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
+    <content><![CDATA[<h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><ul>
+<li>借助Android Studio写一个APP<h2 id="所需知识"><a href="#所需知识" class="headerlink" title="所需知识"></a>所需知识</h2></li>
+<li>Java基础</li>
+<li>Android Studio基本操作</li>
+</ul>
+<hr>
+<h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ul>
+<li>尽快完成布置的任务(写出一个计算器)</li>
+<li>自己根据需求写出一个自己想要的APP</li>
+</ul>
+<hr>
+]]></content>
+      <categories>
+        <category>冰岩</category>
+      </categories>
+      <tags>
+        <tag>冰岩</tag>
       </tags>
   </entry>
 </search>
