@@ -76,11 +76,12 @@
     <title>冰岩夏令营初体验</title>
     <url>/2022/07/07/%E5%86%B0%E5%B2%A9%E5%A4%8F%E4%BB%A4%E8%90%A5%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
     <content><![CDATA[<h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><ul>
-<li>借助Android Studio写一个APP<h2 id="所需知识"><a href="#所需知识" class="headerlink" title="所需知识"></a>所需知识</h2></li>
+<li>借助Android Studio写一个APP</li>
+</ul>
+<h2 id="所需知识"><a href="#所需知识" class="headerlink" title="所需知识"></a>所需知识</h2><ul>
 <li>Java基础</li>
 <li>Android Studio基本操作</li>
 </ul>
-<hr>
 <h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ul>
 <li>尽快完成布置的任务(写出一个计算器)</li>
 <li>自己根据需求写出一个自己想要的APP</li>
