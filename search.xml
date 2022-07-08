@@ -100,11 +100,14 @@
     <url>/2022/07/07/%E5%A4%8F%E4%BB%A4%E8%90%A5%E8%BF%9B%E5%BA%A6/</url>
     <content><![CDATA[<h2 id="7-7进度"><a href="#7-7进度" class="headerlink" title="7.7进度"></a>7.7进度</h2><ul>
 <li>完成了Android Studio的安装</li>
-<li>挑选出了<a href="https://www.bilibili.com/video/BV1Jb4y187C4?p=11&vd_source=1d5f27acd9cc807e021d2d1aadda9250">学习参考视频</a>并学习到button操作(ing)<h2 id="7-8进度"><a href="#7-8进度" class="headerlink" title="7.8进度"></a>7.8进度</h2></li>
+<li>挑选出了<a href="https://www.bilibili.com/video/BV1Jb4y187C4?p=11&vd_source=1d5f27acd9cc807e021d2d1aadda9250">学习参考视频</a>并学习到button操作(ing)</li>
+</ul>
+<h2 id="7-8进度"><a href="#7-8进度" class="headerlink" title="7.8进度"></a>7.8进度</h2><ul>
 <li>完成了计算器外观布置</li>
 <li>完成了各button功能(‘&#x3D;’除外)</li>
 <li>但是莫名奇妙的闪退呜呜呜</li>
 </ul>
+<hr>
 ]]></content>
       <categories>
         <category>冰岩</category>
